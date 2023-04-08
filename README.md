@@ -5,8 +5,6 @@
 :heart: Angular\
 :earth_africa: [Linkedin](https://www.linkedin.com/in/adityaadhikari15/)
 
-
-* Javascript ethusiast
 <!--
 **adityaadhikari15/adityaadhikari15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
