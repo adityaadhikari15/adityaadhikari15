@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 Web Development
-🔭 JavaScript ethusiast
-:heart: Angular
+🌱 Web Development\
+🔭 JavaScript ethusiast\
+:heart: Angular\
 :earth_africa: [Linkedin](https://www.linkedin.com/in/adityaadhikari15/)
 
 
