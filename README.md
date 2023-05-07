@@ -3,6 +3,7 @@
 🌱 Web Development\
 🔭 JavaScript ethusiast\
 :heart: Angular\
+🔭 NextJS/
 :earth_africa: [Linkedin](https://www.linkedin.com/in/adityaadhikari15/)
 
 <!--
