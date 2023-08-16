@@ -3,7 +3,7 @@
 🌱 Web Development\
 🔭 JavaScript ethusiast\
 :heart: Angular\
-🔭 NextJS\ 
+🔭 NextJS
 <!-- :earth_africa: [Linkedin](https://www.linkedin.com/in/adityaadhikari15/) -->
 
 ![Alt text](/hero-image.png?raw=true "Optional Title ")
