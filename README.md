@@ -6,7 +6,7 @@
 🔭 NextJS
 <!-- :earth_africa: [Linkedin](https://www.linkedin.com/in/adityaadhikari15/) -->
 
-![Alt text](./hero-image.png")
+![Alt text](hero-image.png")
 
 <!--
 **adityaadhikari15/adityaadhikari15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
