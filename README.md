@@ -4,7 +4,7 @@
 🔭 JavaScript ethusiast\
 ✅ Angular\
 ✅ React\
-✅ NextJS\
+✅ NextJS
 
 <!-- :earth_africa: [Linkedin](https://www.linkedin.com/in/adityaadhikari15/) -->
 
